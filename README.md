@@ -1,4 +1,4 @@
-![5](https://github.com/user-attachments/assets/cf9eac35-213b-4ac2-b054-27bca9eaf78e)
+![8](https://github.com/user-attachments/assets/62491f7c-b87d-490c-8a34-b1eb2d20ac58)
 
 # 👋 Hi there, I'm Giordano!
 <br>
