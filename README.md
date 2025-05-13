@@ -1,3 +1,5 @@
+![5](https://github.com/user-attachments/assets/cf9eac35-213b-4ac2-b054-27bca9eaf78e)
+
 # 👋 Hi there, I'm Giordano!
 <br>
 
