@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Giordano!
 
-<!--
-**giordanoJF/giordanoJF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing my **Master's Degree in Cybersecurity** at *Università degli Studi di Roma "Tor Vergata"*.  
+💻 I hold a **Bachelor's Degree in Computer Engineering** from the same university.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💬 **Languages**: Java ☕ · Python 🐍 · C 🔧  
+- ⚙️ **Tools & Frameworks**: Maven · Git · SonarCloud · Jira · JUnit
+
+---
+
+## 🎯 Learning Goals
+
+I'm on a mission to become a **Cybersecurity Specialist** 🔐  
+Constantly exploring the world of security and systems.
+
+---
